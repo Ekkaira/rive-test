@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rive-test/static/css/main.ab95b040.css",
+    "main.js": "/rive-test/static/js/main.b968ac43.js",
+    "static/js/453.03908e08.chunk.js": "/rive-test/static/js/453.03908e08.chunk.js",
+    "index.html": "/rive-test/index.html",
+    "main.ab95b040.css.map": "/rive-test/static/css/main.ab95b040.css.map",
+    "main.b968ac43.js.map": "/rive-test/static/js/main.b968ac43.js.map",
+    "453.03908e08.chunk.js.map": "/rive-test/static/js/453.03908e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab95b040.css",
+    "static/js/main.b968ac43.js"
+  ]
+}
